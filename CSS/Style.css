@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Start{
+    text-align: center;
+    padding:10px;
+    background-color:#3A3B3C;
+    margin-bottom: 5px;
+    position:sticky;
+    top: 0px;
+    z-index:2;
+}
+.Join{
+    padding:15px;
+    background-color:#0E1454;
+    color: white;
+    position: fixed;
+    bottom: 50%;
+    right:5px;
+    font-size: 20px;
+}
+a{
+    padding-left: 20px;
+    color: blue;
+}
+img{
+    position: absolute;
+    left: 2%
+    
+}
+.Gmail{
+    width: 600px;
+    height: 250px;
+    background-color:#9CDCFE;
+    padding: 10px;
+    
+    border-top: 10px solid #808080;
+    border-bottom: 10px dotted #8D207A;
+    border-left: 10px double #F6BB00;
+    border-right: #0E1454;
+    color: white;
+    text-indent:60px;
+    position:relative;
+    left: 200px;
+    z-index: 1;
+}
+.HTML{
+    margin-bottom:20px;
+    width: 600px;
+    height: auto;
+    text-decoration: underline overline;
+    background-color: darkgray;
+    border: 15px ridge #EB5824;
+    text-indent:30px;
+    padding: 5px;
+    position:relative;
+    z-index: 1;
+ 
+}
+.Prac{
+    border-bottom: 10px dotted #9CDCFE;
+    text-indent:100px;
+    background-color: gold;
+    margin: 50px;
+    padding-left: 30px #0000FF ;
+}
+
+
